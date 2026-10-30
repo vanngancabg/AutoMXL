@@ -1,0 +1,20 @@
+﻿# Dá»¯ liá»‡u runtime â€” khÃ´ng commit lÃªn GitHub
+/config.ini
+/config/
+/txt/
+/Map/
+/Logs/
+/LoTrinh/
+*.log
+*.bak
+*.tmp
+
+# File gá»‘c dÃ¹ng Ä‘á»ƒ split â€” khÃ´ng commit
+Auto-GSF-original.ahk
+
+# Build output / editor
+*.exe
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
