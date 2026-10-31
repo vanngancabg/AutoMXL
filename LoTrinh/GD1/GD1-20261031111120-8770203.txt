@@ -1,0 +1,45 @@
+﻿=== GHI LO TRINH 20261031111120 ===
+pid=3956 hwnd=1245378 clicks=17 reason=RECORDER_FORM_STOP
+Cot: CLICK#N | t_ms | client=cx,cy | screen=sx,sy | level | player=px,py | map=mx,my
+player = toa do nhan vat trong map khi click
+map    = toa do map ma con tro dang chi (quy doi tu client + camera)
+
+CLICK#1 | t=6250 | client=298,267 | screen=356,299 | level=111 | player=3771,5095 | map=3758,5095
+CLICK#2 | t=8390 | client=483,165 | screen=541,197 | level=111 | player=3757,5095 | map=3743,5083
+CLICK#3 | t=10375 | client=359,220 | screen=417,252 | level=111 | player=3741,5081 | map=3727,5077
+CLICK#4 | t=14984 | client=718,193 | screen=776,225 | level=111 | player=3725,5076 | map=3721,5059
+CLICK#5 | t=18047 | client=665,293 | screen=723,325 | level=111 | player=3720,5056 | map=3720,5047
+CLICK#6 | t=20156 | client=729,349 | screen=787,381 | level=111 | player=3720,5045 | map=3726,5037
+CLICK#7 | t=31781 | client=363,547 | screen=421,579 | level=111 | player=3726,5036 | map=3733,5052
+CLICK#8 | t=33609 | client=338,543 | screen=396,575 | level=111 | player=3733,5053 | map=3739,5069
+CLICK#9 | t=34984 | client=337,544 | screen=395,576 | level=111 | player=3739,5072 | map=3745,5088
+CLICK#10 | t=36344 | client=602,501 | screen=660,533 | level=111 | player=3745,5091 | map=3756,5097
+CLICK#11 | t=38265 | client=647,587 | screen=705,619 | level=111 | player=3758,5097 | map=3776,5106
+CLICK#12 | t=41125 | client=1361,225 | screen=1419,257 | level=111 | player=3779,5109 | map=3797,5074
+CLICK#13 | t=48250 | client=116,135 | screen=174,167 | level=111 | player=3779,5109 | map=3752,5107
+CLICK#14 | t=60844 | client=1356,219 | screen=1414,251 | level=109 | player=5116,5071 | map=5133,5035
+CLICK#15 | t=74140 | client=178,176 | screen=236,208 | level=109 | player=5116,5071 | map=5094,5069
+CLICK#16 | t=76672 | client=639,298 | screen=697,330 | level=111 | player=3781,5111 | map=3781,5103
+CLICK#17 | t=84922 | client=295,431 | screen=353,463 | level=111 | player=3781,5100 | map=3778,5111
+
+; GD1: đúng tọa độ click theo thứ tự, không phụ thuộc file Map.
+GD1Route := []
+GD1Route.Push({level:111,x:3758,y:5095})
+GD1Route.Push({level:111,x:3743,y:5083})
+GD1Route.Push({level:111,x:3727,y:5077})
+GD1Route.Push({level:111,x:3721,y:5059})
+GD1Route.Push({level:111,x:3720,y:5047})
+GD1Route.Push({level:111,x:3726,y:5037})
+GD1Route.Push({level:111,x:3733,y:5052})
+GD1Route.Push({level:111,x:3739,y:5069})
+GD1Route.Push({level:111,x:3745,y:5088})
+GD1Route.Push({level:111,x:3756,y:5097})
+GD1Route.Push({level:111,x:3776,y:5106})
+GD1Route.Push({level:111,x:3797,y:5074})
+GD1Route.Push({level:111,x:3752,y:5107})
+GD1Route.Push({level:109,x:5133,y:5035})
+GD1Route.Push({level:109,x:5094,y:5069})
+GD1Route.Push({level:111,x:3781,y:5103})
+GD1Route.Push({level:111,x:3778,y:5111})
+
+=== END ===

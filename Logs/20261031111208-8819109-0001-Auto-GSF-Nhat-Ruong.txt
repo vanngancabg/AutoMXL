@@ -1,0 +1,2 @@
+﻿20261031111208 tick=8819125 | TRACE_START channel=Auto-GSF-Nhat-Ruong.txt duration=UNTIL_STOP segment_ms=10000 profile=Default
+20261031111208 tick=8819125 | CONFIG pickup_on=1 radius=4 rules= get_key=

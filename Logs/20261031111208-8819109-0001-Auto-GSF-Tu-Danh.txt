@@ -1,0 +1,1 @@
+﻿20261031111208 tick=8819125 | TRACE_START channel=Auto-GSF-Tu-Danh.txt duration=UNTIL_STOP segment_ms=10000 profile=Default

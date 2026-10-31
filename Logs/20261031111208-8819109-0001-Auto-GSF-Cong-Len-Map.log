@@ -1,0 +1,20 @@
+﻿20261031111208 tick=8819125 | START duration=UNTIL_STOP segment_ms=10000 fix=SCOS_BLOCK_REENTRY_AFTER_PORTAL_POSITION_TRANSFER note=QUEUE_SUCCESS_IS_NOT_PORTAL_SUCCESS
+20261031111208 tick=8819125 | MAP_KEY key=INPUT_WATCH result=START before_manual_L active_hwnd=1836306 active_pid=16340 active_is_bound=0 physical_L=0 target=0x1300c2 bound=0x1300c2 pid=3956 foreground=0 valid=1 farm=0 entry=0 stage2=0 sig_busy=0 sig_send=0 sig_town=0 town_send=0 owner= x=0 z=0 buff_pending=0 farm_key_held= packet_watch=0 auto_on= game_hwnd=0x1300c2 game_thread=1740 gui_info_ok=1 gui_flags=0 input_active=0 input_focus=0 input_capture=0 menu_owner=0 game_enabled=1 game_visible=1 game_minmax=0
+20261031111208 tick=8819125 | TRACE_START channel=Auto-GSF-Cong-Len-Map.log duration=UNTIL_STOP segment_ms=10000 profile=Default
+20261031111209 tick=8819203 | MAP_KEY key=INPUT_WATCH result=STATE_CHANGED active_hwnd=1836306 active_pid=16340 active_is_bound=0 physical_L=0 target=0x1300c2 bound=0x1300c2 pid=3956 foreground=0 valid=1 farm=0 entry=0 stage2=0 sig_busy=0 sig_send=0 sig_town=0 town_send=0 owner= x=0 z=0 buff_pending=0 farm_key_held= packet_watch=0 auto_on= game_hwnd=0x1300c2 game_thread=1740 gui_info_ok=1 gui_flags=0 input_active=0 input_focus=0 input_capture=0 menu_owner=0 game_enabled=1 game_visible=1 game_minmax=0
+20261031111209 tick=8819625 | MAP_CHANGE before=0 after=111 is_town=0 is_outside=0
+20261031111209 tick=8819625 | PLAYER_PATH path=0x01B15000 room1=0x1C0C2980 room2=0x1C25E700 level_ptr=0x03D5B800 cursor_uid=0
+20261031111209 tick=8819625 | RUN_FLAGS always_run=0 run_held=0 player_mode=1 ctrl_physical=0 xy=3779,5109
+20261031111209 tick=8819625 | SNAPSHOT pid=3956 hwnd=0x1c07b8 foreground_game=0 farm=0 mode=1 level=111 town_config=241 outside_config=270 xy=3779,5109 revival=0 step=-1 origin=NONE seen_count=0 x_running=0 z_running=0 item_owner= portal_key=MButton
+20261031111209 tick=8819625 | NEAR_OBJECTS count=4 scanned=9 uid=76:class=482:mode=0:xy=3764,5106:distance=15.30:portal_class=0:already_tried=0 uid=77:class=496:mode=2:xy=3779,5109:distance=0.00:portal_class=0:already_tried=0 uid=78:class=482:mode=0:xy=3796,5096:distance=21.40:portal_class=0:already_tried=0 uid=79:class=482:mode=0:xy=3796,5111:distance=17.12:portal_class=0:already_tried=0
+20261031111210 tick=8820140 | PLAYER_PATH path=0x01B15000 room1=0x1C0C2980 room2=0x1C25E700 level_ptr=0x03D5B800 cursor_uid=0
+20261031111210 tick=8820140 | RUN_FLAGS always_run=0 run_held=0 player_mode=1 ctrl_physical=0 xy=3779,5109
+20261031111210 tick=8820656 | PLAYER_PATH path=0x01B15000 room1=0x1C0C2980 room2=0x1C25E700 level_ptr=0x03D5B800 cursor_uid=0
+20261031111210 tick=8820656 | RUN_FLAGS always_run=0 run_held=0 player_mode=1 ctrl_physical=0 xy=3779,5109
+20261031111210 tick=8820656 | SNAPSHOT pid=3956 hwnd=0x1c07b8 foreground_game=0 farm=0 mode=1 level=111 town_config=241 outside_config=270 xy=3779,5109 revival=0 step=-1 origin=NONE seen_count=0 x_running=0 z_running=0 item_owner= portal_key=MButton
+20261031111211 tick=8821140 | RUN_FLAGS always_run=0 run_held=0 player_mode=1 ctrl_physical=0 xy=3779,5109
+20261031111211 tick=8821656 | PLAYER_PATH path=0x01B15000 room1=0x1C0C2980 room2=0x1C25E700 level_ptr=0x03D5B800 cursor_uid=0
+20261031111211 tick=8821656 | RUN_FLAGS always_run=0 run_held=0 player_mode=1 ctrl_physical=0 xy=3779,5109
+20261031111211 tick=8821656 | SNAPSHOT pid=3956 hwnd=0x1c07b8 foreground_game=0 farm=0 mode=1 level=111 town_config=241 outside_config=270 xy=3779,5109 revival=0 step=-1 origin=NONE seen_count=0 x_running=0 z_running=0 item_owner= portal_key=MButton
+20261031111211 tick=8821656 | NEAR_OBJECTS count=4 scanned=9 uid=76:class=482:mode=0:xy=3764,5106:distance=15.30:portal_class=0:already_tried=0 uid=77:class=496:mode=2:xy=3779,5109:distance=0.00:portal_class=0:already_tried=0 uid=78:class=482:mode=0:xy=3796,5096:distance=21.40:portal_class=0:already_tried=0 uid=79:class=482:mode=0:xy=3796,5111:distance=17.12:portal_class=0:already_tried=0
+20261031111211 | SESSION_END reason=USER_STOP

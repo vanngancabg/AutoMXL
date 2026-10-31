@@ -1,0 +1,8 @@
+﻿20261031111208 tick=8819125 | TRACE_START channel=Auto-GSF-Ruong-Cube.txt duration=UNTIL_STOP segment_ms=10000 profile=Default
+20261031111208 tick=8819125 | CONFIG key= pickup_delay_ms=50 transfer_delay_ms=20
+20261031111208 tick=8819125 | SIG_GROUND_CHECK manual=1 read_only=1 sig_busy=0 last_stop= level=111 player_xy=3779,5109 pickup_radius=4
+20261031111208 tick=8819125 | SIG_GROUND_ITEM uid=249 class=796 quality=4 tier= xy=3783,5111 distance=6 within_pickup_radius=0
+20261031111209 tick=8819125 | SIG_GROUND_ITEM uid=250 class=797 quality=2 tier= xy=3729,5067 distance=92 within_pickup_radius=0
+20261031111209 tick=8819125 | SIG_GROUND_ITEM uid=251 class=1210 quality=4 tier= xy=3737,5063 distance=88 within_pickup_radius=0
+20261031111209 tick=8819125 | SIG_GROUND_ITEM uid=252 class=1214 quality=2 tier= xy=3727,5076 distance=85 within_pickup_radius=0
+20261031111209 tick=8819125 | SIG_GROUND_SUMMARY nearby=0 set=0 unique=0 all_loaded_ground=4 cursor_uid=0 scope=LOADED_ROOMS_ONLY

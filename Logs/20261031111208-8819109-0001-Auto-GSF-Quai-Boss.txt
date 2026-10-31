@@ -1,0 +1,17 @@
+﻿20261031111208 tick=8819125 | TRACE_START channel=Auto-GSF-Quai-Boss.txt duration=UNTIL_STOP segment_ms=10000 profile=Default
+20261031111209 tick=8819125 | READ_ONLY_SCAN duration=UNTIL_STOP segment_ms=10000 poll_ms=500 classification=UNCONFIRMED auto_attack=0
+20261031111209 tick=8819640 | SCAN pid=3956 player=0x1D1AE900 xy=3779,5109 room=0x1C0C2980 selected_raw_11B834=0x00000000
+20261031111209 tick=8819640 | BOSS_IDENTIFY_CONTEXT level=111 selected_pointer_raw=0x00000000 classification=UNCONFIRMED purpose=COMPARE_CLASS_UID_AND_MONSTER_DATA
+20261031111209 tick=8819640 | SUMMARY rooms=6 units=9 type1_candidates=0 read_errors=0 truncated=0 nearest_candidate_uid=0 dist_L1=-1 hp_read_ok=0 priority_requested=HIGHEST_CURRENT_HP highest_hp_candidate_uid=0 class=0 hp=-1 max_hp=-1 dist_L1=-1 hostile=UNCONFIRMED target_selected=0 attack_sent=0
+20261031111210 tick=8820156 | SCAN pid=3956 player=0x1D1AE900 xy=3779,5109 room=0x1C0C2980 selected_raw_11B834=0x00000000
+20261031111210 tick=8820156 | BOSS_IDENTIFY_CONTEXT level=111 selected_pointer_raw=0x00000000 classification=UNCONFIRMED purpose=COMPARE_CLASS_UID_AND_MONSTER_DATA
+20261031111210 tick=8820156 | SUMMARY rooms=6 units=9 type1_candidates=0 read_errors=0 truncated=0 nearest_candidate_uid=0 dist_L1=-1 hp_read_ok=0 priority_requested=HIGHEST_CURRENT_HP highest_hp_candidate_uid=0 class=0 hp=-1 max_hp=-1 dist_L1=-1 hostile=UNCONFIRMED target_selected=0 attack_sent=0
+20261031111210 tick=8820656 | SCAN pid=3956 player=0x1D1AE900 xy=3779,5109 room=0x1C0C2980 selected_raw_11B834=0x00000000
+20261031111210 tick=8820656 | BOSS_IDENTIFY_CONTEXT level=111 selected_pointer_raw=0x00000000 classification=UNCONFIRMED purpose=COMPARE_CLASS_UID_AND_MONSTER_DATA
+20261031111210 tick=8820656 | SUMMARY rooms=6 units=9 type1_candidates=0 read_errors=0 truncated=0 nearest_candidate_uid=0 dist_L1=-1 hp_read_ok=0 priority_requested=HIGHEST_CURRENT_HP highest_hp_candidate_uid=0 class=0 hp=-1 max_hp=-1 dist_L1=-1 hostile=UNCONFIRMED target_selected=0 attack_sent=0
+20261031111211 tick=8821156 | SCAN pid=3956 player=0x1D1AE900 xy=3779,5109 room=0x1C0C2980 selected_raw_11B834=0x00000000
+20261031111211 tick=8821156 | BOSS_IDENTIFY_CONTEXT level=111 selected_pointer_raw=0x00000000 classification=UNCONFIRMED purpose=COMPARE_CLASS_UID_AND_MONSTER_DATA
+20261031111211 tick=8821156 | SUMMARY rooms=6 units=9 type1_candidates=0 read_errors=0 truncated=0 nearest_candidate_uid=0 dist_L1=-1 hp_read_ok=0 priority_requested=HIGHEST_CURRENT_HP highest_hp_candidate_uid=0 class=0 hp=-1 max_hp=-1 dist_L1=-1 hostile=UNCONFIRMED target_selected=0 attack_sent=0
+20261031111211 tick=8821656 | SCAN pid=3956 player=0x1D1AE900 xy=3779,5109 room=0x1C0C2980 selected_raw_11B834=0x00000000
+20261031111211 tick=8821656 | BOSS_IDENTIFY_CONTEXT level=111 selected_pointer_raw=0x00000000 classification=UNCONFIRMED purpose=COMPARE_CLASS_UID_AND_MONSTER_DATA
+20261031111211 tick=8821656 | SUMMARY rooms=6 units=9 type1_candidates=0 read_errors=0 truncated=0 nearest_candidate_uid=0 dist_L1=-1 hp_read_ok=0 priority_requested=HIGHEST_CURRENT_HP highest_hp_candidate_uid=0 class=0 hp=-1 max_hp=-1 dist_L1=-1 hostile=UNCONFIRMED target_selected=0 attack_sent=0
